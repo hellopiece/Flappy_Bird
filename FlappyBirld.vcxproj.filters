@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="sounds\background.mp3">
+      <Filter>资源文件</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="sourcefile\0_1.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\0_2.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\1_1.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\1_2.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\2_1.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\2_2.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\3_1.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\3_2.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\4_1.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\4_2.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\5_1.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\5_2.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\6_1.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\6_2.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\7_1.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\7_2.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\8_1.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\8_2.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\9_1.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\9_2.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\atlast.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\backgroundfd.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\beforegame.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\bird1-1.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\bird1-2.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\bird2.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\bird2-1.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\bird2-2.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\bird3-1.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\bird3-2.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\bird4-1.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\bird4-2.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\gameover1.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\gameover2.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\stone_down1.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\stone_down2.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\stone_up1.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="sourcefile\stone_up2.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
